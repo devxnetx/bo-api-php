@@ -1,5 +1,5 @@
 {
-  "name": "devxnet/bo-api-php",
+  "name": "devxnetx/bo-api-php",
   "description": "PHP package for burzi-obiavi.com API",
   "type": "library",
   "require": {
